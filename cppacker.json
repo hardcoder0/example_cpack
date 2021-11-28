@@ -1,0 +1,12 @@
+{
+    "mod_data": {
+        "mod_name": "hello world",
+        "author": "Preston Wallitsch",
+        "version": "1.0.0",
+        "language": "c++"
+    },
+    "headers": [
+        "hello.h"
+    ],
+    "libraries": []
+}
